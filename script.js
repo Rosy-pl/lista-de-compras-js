@@ -35,7 +35,7 @@ function addItem() {
   itemInput.value = "";
 }
 
-itemInput.focus();
+
 
 
 // =========================
